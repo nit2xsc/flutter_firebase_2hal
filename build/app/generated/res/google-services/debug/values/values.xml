@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">537210548197-kg5dvb96j22t0k4rk9i178spikvnt5gn.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">537210548197</string>
+    <string name="google_api_key" translatable="false">AIzaSyAlHojDCRMlFR7jI9OWZWbLyluewQREtkc</string>
+    <string name="google_app_id" translatable="false">1:537210548197:android:1e1d55edd5570c5e83890c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAlHojDCRMlFR7jI9OWZWbLyluewQREtkc</string>
+    <string name="google_storage_bucket" translatable="false">fir-coba-be7a1.appspot.com</string>
+    <string name="project_id" translatable="false">fir-coba-be7a1</string>
+</resources>

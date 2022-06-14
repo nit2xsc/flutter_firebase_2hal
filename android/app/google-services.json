@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537210548197",
+    "project_id": "fir-coba-be7a1",
+    "storage_bucket": "fir-coba-be7a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537210548197:android:1e1d55edd5570c5e83890c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537210548197-kg5dvb96j22t0k4rk9i178spikvnt5gn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlHojDCRMlFR7jI9OWZWbLyluewQREtkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537210548197-kg5dvb96j22t0k4rk9i178spikvnt5gn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
